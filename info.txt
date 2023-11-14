@@ -1,0 +1,40 @@
+what is backend?
+================
+backend developer is a person who programmed the database and server.
+
+
+why backend?
+============
+to make website more usable and purposeful for the audience, to amke website dynamic.
+
+
+why backendwhy not frontend alone?
+==================================
+with frontend websites are static and they are not much intersting.
+
+
+what do we need?
+================
+nodejs, mongodb, mongoosejs, expressjs
+
+
+what should we make to hit big companies?
+
+CONTENT
+- node js install
+- import and export
+- run the code
+-- node js core usage and understanding - http
+- npm usage
+- express
+- express generator
+- mongodb
+-- intermidiate mongodb
+-- api development
+-- authentication and authorization
+-- error handelling
+- middleware
+-- session and cookies
+-- deployment
+-- testing
+-- realtime stuff

@@ -1,0 +1,8 @@
+express framework for nodejs.
+
+express ka use case => routing
+
+routing => GET, POST, PATCH, DELETE
+
+GET POST
+=========

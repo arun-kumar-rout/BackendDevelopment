@@ -1,0 +1,8 @@
+middleware ek aisa function hai jo kisi bhi route se pehele chalta hai, jiska matlab aapka route chalana se pahle agar app kai bhi kaam karana chahte ho to middleware ka upyog kiya jata hey
+
+route pe chalna se pahle print karo chala on console
+route chalana se pahle route pe hits counter ki value badhao
+
+iska matlab route chalna se pehele jo chalega wo hey middleware
+
+srf ek dikkat hai agar humara middleware
